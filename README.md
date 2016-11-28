@@ -26,6 +26,7 @@
 - [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
 - [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
 - [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
+- [socket.io 风格的 websocket 类库](https://github.com/fanweixiao/wxapp-socket-io)
 
 ## 文档
 
